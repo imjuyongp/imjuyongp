@@ -1,3 +1,13 @@
+
+> **Building solutions that matter.**  
+> _I strive to continuously grow as a developer, aiming to create solutions that satisfy users and clients worldwide._
+
+<!-- =========================
+🧩 Tech Stack (Hidden for now)
+필요할 때 주석 해제해서 사용
+========================= -->
+
+<!--
 ### 🧩
 <p align="left">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -35,3 +45,4 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
+-->
